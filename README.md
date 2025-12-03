@@ -1,1 +1,3 @@
 # Student-Success-Optimization
+Walsoft BI Program Student Success OptimizationOverviewThis repository contains the data, analysis, and strategic report derived from the Walsoft BI Program Student Performance Dataset (Student_success_optimization.csv).
+The goal of this project was to provide Walsoft management with data-driven insights to strategically improve student success, optimize resource allocation, and enhance the overall effectiveness of the training program. The analysis focuses on identifying key success drivers, locating at-risk student groups, and providing actionable recommendations.
